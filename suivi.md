@@ -25,4 +25,17 @@
     - Observez la manière dont j'ai modifié votre journal pour qu'il affiche un lien sans mettre l'adresse complète. Utilisez cette syntaxe à l'avenir, car elle rend les documents beaucoup plus lisibles.
 
 - Journal de travail
-    -  ...
+
+    - 10 minutes : théorie sur Pomodoro et Markdown
+	
+	- 10 minutes : organisation avec la team et décision radicale : je ferais un site web de mon côté, nos idées étant trop différentes
+	
+	- 65 minutes : création et configuration d'un nouveau site web, je recommence depuis le début
+	
+	- 10 minutes : aider un collègue dans son code c#
+	
+	- 15 minutes : configurer le site, ajout de la page [À propos de ce site] (https://vente4you.odoo.com/a-propos-de-ce-site)
+	
+	- 10 minutes : aider un collègue
+	
+	- 10 minutes : finir le paragraphe comment fonctionne le site
