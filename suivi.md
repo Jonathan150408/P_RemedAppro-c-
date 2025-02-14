@@ -34,7 +34,7 @@
 	
 	- 10 minutes : aider un collègue dans son code c#
 	
-	- 15 minutes : configurer le site, ajout de la page [À propos de ce site] (https://vente4you.odoo.com/a-propos-de-ce-site)
+	- 15 minutes : configurer le site, ajout de la page [À propos de ce site](https://vente4you.odoo.com/a-propos-de-ce-site)
 	
 	- 10 minutes : aider un collègue
 	
@@ -47,6 +47,17 @@
     - Continuez comme ça
 
 - Journal de travail
-    - ...
 
-
+    - 10 minutes : disscution en classe à propos de l'ambiance en entreprise
+	
+	- 20 minutes relecture et test de lu site, tout fonctionne correctement
+	
+	- 15 minutes : recherches sur la création d'un formulaire personnalisé
+	
+	- 20 minutes : essais à propos du formulaire personnalisé, il servira à ajouter des produits en ligne, je n'ai pas réussi
+	
+	- 30 minutes : aider un ami avec son code c#
+	
+	- 10 minutes : créer un nouveau site web nommé edu-vente4you
+	
+	- 35 minutes : déprimmer car je n'arrive pas à importer le travail réalisé sur l'encien site, perte totale de motivation
