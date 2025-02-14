@@ -39,3 +39,14 @@
 	- 10 minutes : aider un collègue
 	
 	- 10 minutes : finir le paragraphe comment fonctionne le site
+
+## 14.2
+
+- Feedback XCL
+    - Vous avez remarqué que votre lien ne se présente pas comme désirée. Cela vient du fait que vous avez laissé un espace entre `]` et `(` 
+    - Continuez comme ça
+
+- Journal de travail
+    - ...
+
+
