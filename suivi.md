@@ -43,7 +43,7 @@
 ## 14.2
 
 - Feedback XCL
-    - Vous avez remarqué que votre lien ne se présente pas comme désirée. Cela vient du fait que vous avez laissé un espace entre `]` et `(` 
+    - Vous avez remarqué que votre lien ne se présente pas comme désiré. Cela vient du fait que vous avez laissé un espace entre `]` et `(` 
     - Continuez comme ça
 
 - Journal de travail
@@ -61,3 +61,9 @@
 	- 10 minutes : créer un nouveau site web nommé edu-vente4you
 	
 	- 35 minutes : déprimmer car je n'arrive pas à importer le travail réalisé sur l'encien site, perte totale de motivation
+
+## 28.2
+
+- Feedback XCL
+    - Remotivez-vous ! Il est fréquent dans la vie professionnelle d'un informaticien de faire quelque chose qui n'est pas utilisé au final. Cela fait partie du job. Tirez-en le positif: vous avez appris des choses, vous allez remettre en place votre nouveau site deux fois plus vite.
+
