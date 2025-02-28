@@ -67,3 +67,22 @@
 - Feedback XCL
     - Remotivez-vous ! Il est fréquent dans la vie professionnelle d'un informaticien de faire quelque chose qui n'est pas utilisé au final. Cela fait partie du job. Tirez-en le positif: vous avez appris des choses, vous allez remettre en place votre nouveau site deux fois plus vite.
 
+	[Nouveau site](https://edu-vente4you.odoo.com)
+
+	- 10 minutes : explications en classe sur les conventions de nommage des commits
+	
+	- 10 minutes : essayer de dupliquer mon site, impossible
+	
+	- 20 minutes : configuration de la page d'accueil
+	
+	- 5 minutes : demander à chatGPT si l'ajout de plugins est possible -> non et je me suis rendu compte que j'en ai pas besoin
+
+	- 20 minutes : configuration de la page à propos
+	
+	- 10 minutes : configuration de la page de contact
+	
+	- 10 minutes : test du site et de l'affichage des pages
+	
+	- 5 minutes : brève pause
+	
+	- 30 minutes : config de la page d'accueil
