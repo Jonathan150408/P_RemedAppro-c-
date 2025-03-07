@@ -101,4 +101,14 @@
 
 	- 15 minutes : rappel concernant le nommage des commits
 	
-	- 14h15
+	- 15 minutes : compléter le suivi.md
+	
+	- 20 minutes : aider un collègue
+	
+	- 25 minutes : ajout du bouton de don et recherches sur les moyens de payement possibles
+	
+	- 25 minutes : configuration de Stripe, c'est un moyen de payement en ligne
+	
+	- 20 minutes : recherches sur comment modifier la "page" de dons, modification de la "page" de dons. L'option de configuration était cachée
+	
+	- 20 minutes : modification du formulaire d'inscription et de la gestion des utilisateurs
