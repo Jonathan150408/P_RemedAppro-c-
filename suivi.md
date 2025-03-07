@@ -67,6 +67,8 @@
 - Feedback XCL
     - Remotivez-vous ! Il est fréquent dans la vie professionnelle d'un informaticien de faire quelque chose qui n'est pas utilisé au final. Cela fait partie du job. Tirez-en le positif: vous avez appris des choses, vous allez remettre en place votre nouveau site deux fois plus vite.
 
+- Journal
+
 	[Nouveau site](https://edu-vente4you.odoo.com)
 
 	- 10 minutes : explications en classe sur les conventions de nommage des commits
@@ -86,3 +88,13 @@
 	- 5 minutes : brève pause
 	
 	- 30 minutes : config de la page d'accueil
+
+
+## 7.3
+
+- Feedback XCL
+    - J'avais demandé de faire un bilan des objectifs, il n'a pas été fait
+	- Journal Ok
+	- Commits Git: mettez les trois éléments `type(scope):effet` sur la même ligne, dans le nom du commit, pas dans sa description
+
+- Journal de travail
