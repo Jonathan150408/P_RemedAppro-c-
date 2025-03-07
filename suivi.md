@@ -98,3 +98,7 @@
 	- Commits Git: mettez les trois éléments `type(scope):effet` sur la même ligne, dans le nom du commit, pas dans sa description
 
 - Journal de travail
+
+	- 15 minutes : rappel concernant le nommage des commits
+	
+	- 14h15
