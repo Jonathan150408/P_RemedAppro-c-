@@ -122,6 +122,13 @@
 		> 20 minutes : aider un collègue
 
 		Aidé qui ? à faire quoi ?
-
+		Evan Gusarov, à placer les bateau d'une bataille navale de manière aléatoire dans un code c#, nous avons fini par abondonner
 - Journal de travail
-    -
+
+	- 20 minutes : vérification générale du site
+	
+	- 25 minutes : présenter le site et ses fonctionnalités
+	
+	- 35 minutes : Changer l'interface de requêtes pour devenir vendeur, avant c'était le contactus par défaut, maintenant il y a un formulaire dédié
+	
+	- 40 minutes : ajouter du contenu et des boutons afin de lier les pages et de les rendre attractives sur toutes les pages
