@@ -112,3 +112,16 @@
 	- 20 minutes : recherches sur comment modifier la "page" de dons, modification de la "page" de dons. L'option de configuration était cachée
 	
 	- 20 minutes : modification du formulaire d'inscription et de la gestion des utilisateurs
+
+	
+## 14.3
+
+- Feedback XCL
+    - Tout va bien, continuez...
+    - Journal: donnez un petit peu plus d'information.
+		> 20 minutes : aider un collègue
+
+		Aidé qui ? à faire quoi ?
+
+- Journal de travail
+    -
