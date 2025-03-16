@@ -132,3 +132,9 @@
 	- 35 minutes : Changer l'interface de requêtes pour devenir vendeur, avant c'était le contactus par défaut, maintenant il y a un formulaire dédié
 	
 	- 40 minutes : ajouter du contenu et des boutons afin de lier les pages et de les rendre attractives sur toutes les pages
+
+# Conclusion
+
+Je valide votre projet. Je vous félicite parce que vous avez pris un risque, en vous lançant dans un domaine tout nouveau et que vous avez réussi à atteindre vos objectifs. Votre attitude a été excellente durant tout ce projet. Vous avez cherché à résoudre les problèmes par vous-même, et vous avez été proactif dans les moments de difficulté ou de changement de direction.
+
+Continuez comme ça
